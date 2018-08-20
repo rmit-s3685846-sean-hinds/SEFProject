@@ -1,0 +1,27 @@
+@Test
+public void modifyitemTest()
+
+@Test
+public void placepurchaseordersTest()
+
+@Test
+public void salesreportTest()
+
+@Test
+public void supplyreportTest()
+
+@Test
+public void highrevenueitemsTest()
+
+@Test
+public void managerloginTest() 
+
+
+
+
+ModifyItem
+PlacePurchaseOrders
+SalesReport
+SupplyReport
+HighRevenueItems
+ManagerLogin
